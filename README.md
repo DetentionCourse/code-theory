@@ -1,2 +1,2 @@
 # code-theory
-Code Theory is my explanation of to understanding.
+Code Theory is my explanation to understanding.
